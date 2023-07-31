@@ -1,0 +1,15 @@
+C:\Users\EUGENE\source\repos\substring\bin\Debug\net6.0\substring.exe
+C:\Users\EUGENE\source\repos\substring\bin\Debug\net6.0\substring.deps.json
+C:\Users\EUGENE\source\repos\substring\bin\Debug\net6.0\substring.runtimeconfig.json
+C:\Users\EUGENE\source\repos\substring\bin\Debug\net6.0\substring.dll
+C:\Users\EUGENE\source\repos\substring\bin\Debug\net6.0\substring.pdb
+C:\Users\EUGENE\source\repos\substring\obj\Debug\net6.0\substring.csproj.AssemblyReference.cache
+C:\Users\EUGENE\source\repos\substring\obj\Debug\net6.0\substring.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EUGENE\source\repos\substring\obj\Debug\net6.0\substring.AssemblyInfoInputs.cache
+C:\Users\EUGENE\source\repos\substring\obj\Debug\net6.0\substring.AssemblyInfo.cs
+C:\Users\EUGENE\source\repos\substring\obj\Debug\net6.0\substring.csproj.CoreCompileInputs.cache
+C:\Users\EUGENE\source\repos\substring\obj\Debug\net6.0\substring.dll
+C:\Users\EUGENE\source\repos\substring\obj\Debug\net6.0\refint\substring.dll
+C:\Users\EUGENE\source\repos\substring\obj\Debug\net6.0\substring.pdb
+C:\Users\EUGENE\source\repos\substring\obj\Debug\net6.0\substring.genruntimeconfig.cache
+C:\Users\EUGENE\source\repos\substring\obj\Debug\net6.0\ref\substring.dll
